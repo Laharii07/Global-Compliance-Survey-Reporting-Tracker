@@ -116,6 +116,7 @@ Analysis was conducted **only on validated (Clean) records**, including:
 * Interactive slicers (Region, Quarter)
 * Limited visuals for clarity (3 charts max)
 * KPI-driven design
+<img width="1861" height="642" alt="Dashboard " src="https://github.com/user-attachments/assets/5af3c520-09c7-4150-a90d-a1c46f378984" />
 
 ---
 
